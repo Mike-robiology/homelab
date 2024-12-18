@@ -2,3 +2,4 @@
 ||realmedia.channel4.com^
 ||stats.channel4.com^
 ||rr3.*googlevideo.com^
+||r5.*googlevideo.com^
