@@ -1,4 +1,4 @@
 ||cdn.http.anno.channel4.com^
 ||realmedia.channel4.com^
 ||stats.channel4.com^
-||googlevideo.com^
+||rr3.*googlevideo.com^
